@@ -9,7 +9,7 @@
     "build": "gatsby build"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=14"
   },
   "engineStrict": true,
   "dependencies": {
