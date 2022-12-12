@@ -6,6 +6,7 @@ module.exports = {
     description: 'my theme'
   },
   plugins: [
+    'gatsby-plugin-netlify-cms',
     'gatsby-plugin-sass',
     'gatsby-transformer-json',
     'gatsby-transformer-remark',
